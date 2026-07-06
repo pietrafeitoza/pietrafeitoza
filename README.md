@@ -49,15 +49,6 @@ I work at the intersection of **technical development** and **project management
 
 ---
 
-##  Leadership & Management
-
-- **PM @ Inteli Júnior**: set up Notion workspace for 3-person teams, documentation-first Kanban planning.
-- **Marketing Director @ Inteli Research**: pitches grounded in real data and competitor analysis.
-
----
-
 <div align="center">
-
-*README built around real project work and experience — no filler.*
 
 </div>

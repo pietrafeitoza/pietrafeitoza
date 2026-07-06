@@ -25,13 +25,6 @@ const pietra = {
   location: "São Paulo, Brazil"
 };
 ```
-
-I work at the intersection of **technical development** and **project management**, combining hands-on experience building real products (junior enterprises and market clients) with structured planning, documentation, and delivery processes.
-
----
-
-## 🛠️ Stack
-
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ```txt
 const pietra = {
@@ -12,7 +12,8 @@ const pietra = {
   location: "São Paulo, Brazil"
 };
 ```
-<div align="center">
+
+## Stacks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,9 +26,8 @@ const pietra = {
 
 </div>
 
-**Architecture:** MVC · Repository Pattern · Service Layer · DTOs · Route → Controller → Service → Repository
-
 ---
+## Networking
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietra-feitoza/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)

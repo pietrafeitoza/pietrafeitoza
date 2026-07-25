@@ -6,7 +6,6 @@ const pietra = {
   background: "Electromechanical Technician (SENAI)",
   roles: [
     "Project Manager @ Inteli Júnior",
-    "Marketing Director @ Inteli Research"
   ],
   focus: ["Full-Stack Development", "Database Architecture", "Product Management"],
   location: "São Paulo, Brazil"

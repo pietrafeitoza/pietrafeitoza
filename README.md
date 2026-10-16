@@ -10,6 +10,7 @@ const pietra = {
   focus: ["Full-Stack Development", "Database Architecture", "Product Management"],
   location: "São Paulo, Brazil"
 };
+print("some of my projects come from gitlab! my profile is: @pietra.feitoza")
 ```
 
 ## Stacks
